@@ -1,0 +1,33 @@
+{
+  "name": "notez",
+  "version": "1.0.0",
+  "description": "easy to use express app for note taking",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chadalac27/Notez.git"
+  },
+  "keywords": [
+    "note",
+    "taker",
+    "express",
+    "app"
+  ],
+  "author": "Chad Coleman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chadalac27/Notez/issues"
+  },
+  "homepage": "https://github.com/chadalac27/Notez#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "util": "^0.12.3"
+  }
+}
