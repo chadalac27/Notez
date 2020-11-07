@@ -1,8 +1,8 @@
-# Express Note Taker ![MIT License](https://img.shields.io/badge/License-MIT-Green)
+# NoteZ ![MIT License](https://img.shields.io/badge/License-MIT-Green)
 
 ## Description
 
-This is a simple express app that allows the user to create and manage notes from anywhere with an internet connection.  You can also work in a group to create notes.
+a simple Express app for taking notes.
 
 ## Table of Contents
 
@@ -15,22 +15,22 @@ This is a simple express app that allows the user to create and manage notes fro
 * [License](#license)
 
 ## Installation
-To install, clone the git, run cli command "npm i", then run cli command "node server.js"  after that just go to localhost:3000 and have fun.  If deploying to a server please follow server instructions
+You know the drill . install the required files, run npm i, node server.js
 
 ## Usage
-This is designed to be used for business!
+use to make notez if you can get it to work ! . Current version doesnt Save notes.
 
 ## Contributions
-no contributions at this time
+Help me fix it... i can't figure it out
 
 ## Testing
-No testing at this time
+Test Test and more Test test till your heart explodes I know I did!
 
 ## Credits
-GitHub: https://www.github.com/jbaxter91
+GitHub: https://www.github.com/chadalac27
 
-Email: jbaxter@a-zdarts.com
+Email: chad@chadisrad.com
 ## Deployed  
-  https://mysterious-wildwood-15328.herokuapp.com
+  https://chadalac27.github.io/Notez/
 ## License
 MIT License: A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.

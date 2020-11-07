@@ -50,7 +50,6 @@ app.post("/api/notes", async (req,res) => {
     return res.send(notesJson);
 });
 
-
 app.delete("/api/notes/:id", async (req,res) => {
     var chosen = req.params.id;
     let rawData = await readFileAsync(path.join(__dirname, "db/db.json"));
